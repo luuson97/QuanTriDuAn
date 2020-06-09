@@ -1,0 +1,91 @@
+
+1. 	Giới thiệu dự án
+1.1.	Mô tả dự án
+Robot dò đường, website quảng cáo, bài tập lớn….
+1.2.	Công cụ quản lý
+Link Quản lý và phân chia công việc: MS Planner (bắt buộc): …………………………………………..…..
+Link Quản lý mã nguồn: GitHub/GitLab (bắt buộc): ……………………………………………………………….
+
+2. 	Các nhân sự tham gia dự án
+2.1.	Thông tin liên hệ phía khách hàng
+Anh Ngô Lam Trung: 
+2.2.	Thông tin liên hệ phía công ty
+Lập trình viên:  Pham Lan
+Phiên dịch: Ngọc, 
+2.3.	Phân chia vai trò của thành viên dự án và khách hàng
+Giám đốc: Hưng, tài chính, nhân sự, yêu càu cơ bản: đẹp, tròn, vàng
+Trung: IT, chi tiết, báo tiến độ
+Phiên dịch: Bích
+
+
+
+3. 	Khảo sát dự án
+3.1.	Yêu cầu khách hàng
+3.2.	Mô hình hoạt động hiện thời – nghiệp vụ
+thăm khám trực tiếp ,cần trao đổi và tiếp xúc gần giữa bác sĩ với bệnh nhân .
+thủ tục rườm rà ,mất nhiều thời gian công sức
+mô hình khám bệnh : bệnh nhân làm thủ tục khám bênh -> bác sĩ khám lâm sàng -> chụp chiếu và xét nghiệm nếu cần thiết
+-> chẩn đoán bệnh và đưa ra phác đồ điều trị -> bệnh nhân nhận thuốc hoặc ở lại viện để tiếp tục điều trị ,theo dõi 
+3.3.	Mô hình hoạt động dự kiến sau khi áp dụng sản phẩm mới
+3.4.	Phạm vi dự án
+4. 	Giao tiếp/Trao đổi thông tin
+Các qui định về họp hành nội bộ
+Các qui định về họp hành với khách hàng
+5. 	Ước lượng chung
+5.1.	Ước lượng tính năng
+Nêu khoảng 5 tính năng
+5.2.	Work Breakdown Structure
+Vẽ WBS cho khoảng 5 tính năng nói trên
+Phải quan tâm tới deadline mà khách hàng yêu cầu, và chỉ nên sử dụng tầm 90% thời gian. 10% còn lại là buffer.
+5.3.	Ước lượng thời gian
+Từ WBS xác định đường găng và cho biết thời gian cần thiết để làm dự án.
+5.4.	Ước lượng rủi ro
+
+6. 	Ước lượng giá thành
+Chi phí phát triển  +  Chi phí kiểm thử
+Chi phí vận hành, quản lý, hành chính
+Chi phí kính doanh, quảng cáo, tiếp thị
+7. 	Ước lượng chất lượng
+Ước lượng số dòng code
+Ước lượng số testcase 
+Qui định số dòng comment trên mỗi Kloc
+Qui định về số unit test, automation test
+8. 	Phân tích thiết kế 
+8.1.	Mô hình tích hợp phần cứng/phần mềm
+8.2.	Giao diện
+8.3.	Cơ sở dữ liệu
+8.4.	Mạng
+9. 	Giám sát dự án
+9.1.	Trả lời câu hỏi
+1.	Khách hàng yêu cầu: “Cần có người làm việc trực tiếp ở công ty chúng tôi để tiện trao đổi và sửa lỗi?”.
+Nhóm quản lý sẽ trả lời thế nào:	
+	
+	
+	
+2.	Khách hàng yêu cầu: “Oh. Xếp chúng tôi sử dụng máy tính cài hệ điều hành Windows 95 cơ. Liệu phần mềm này phải chạy được đấy nhé. Ông mới là người duyệt cái này đấy”.
+Nhóm quản lý sẽ trả lời thế nào:	
+	
+	
+	
+3.	Khách hàng yêu cầu: “Dự án phát triển phần mềm này giá 100 triệu. Giá này có bao gồm VAT hay không nhỉ? Giá cụ thể cho tình huống có VAT và không VAT là bao nhiêu?”
+Nhóm quản lý sẽ trả lời thế nào:	
+	
+	
+	
+
+10. 	Đóng dự án
+Thực hiện các thống kê
+10.1.	Quản lý mã nguồn
+Dựa trên các biểu đồ của Git, hoặc các công cụ phân tích code, xuất ra 3 thông kê. Gợi ý 
+1.	Số commit của mỗi người
+2.	Phân bố commit của dự án (sáng chiều đêm…)
+3.	Số dòng lệnh bị thay đổi
+4.	Sơ đồ các branch được tạo ra
+5.	Số dòng lệnh của dự án
+10.2.	Quản lý công việc
+Dựa trên các biểu đồ của Planner, xuất ra 2 thống kê. Gợi ý
+1.	Số task đã hoàn thành, chưa hoàn thành, muộn…
+2.	Bố trí task theo Schedule
+11. 	Danh mục tài liệu liên quan
+
+

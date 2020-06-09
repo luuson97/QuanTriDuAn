@@ -1,0 +1,11 @@
+3.1.	Yêu cầu khách hàng
+-	Chatbot tư vấn về dịch COVID.
+-	Tự động trả lời tư vấn cho mọi người.
+3.2.	Mô hình hoạt động hiện thời – nghiệp vụ
+Trang web cung cấp thông tin cơ bản về dịch bệnh covid hiện nay. 
+Người dùng có thể truy cập trang web tìm kiếm thông tin.
+Người dùng đặt câu hỏi, qua một khoảng thời gian nhất định sẽ có nhân viên tư vấn trả lời từng câu hỏi.
+3.3.	Mô hình hoạt động dự kiến sau khi áp dụng sản phẩm mới
+User -> truy cập trang web tìm kiếm thông tin về dịch bệnh covid -> chatbot hiện ra -> user đặt ra các câu hỏi -> chatbot tự động trả lời và đưa ra gợi ý các câu hỏi tiếp -> chatbot tự động đưa ra lời khuyên.
+3.4.	Phạm vi dự án
+Hướng tới tất cả người dùng internet quan tâm tới tình hình dịch bệnh covid, cũng như muốn nhận được lời khuyên thông qua các triệu chứng cụ thể của bản thân.
